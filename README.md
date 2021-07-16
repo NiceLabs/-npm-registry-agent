@@ -5,4 +5,4 @@
 ## Deploy on AWS Lambda
 
 - [AWS Lambda Template](serverless/npm-registry-agent.yaml)
-- [API Gateway Configure](github.com/akrylysov/algnhsa)
+- [API Gateway Configure](https://github.com/akrylysov/algnhsa)
